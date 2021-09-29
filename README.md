@@ -1,0 +1,2 @@
+# projek-SCPK-
+menggunakan matlab
